@@ -924,11 +924,12 @@ export default function AuthPage() {
       <div className="min-h-screen grid grid-cols-1 lg:grid-cols-5">
          {/* Left side */}
          <div className="hidden lg:col-span-2 lg:flex flex-col items-center justify-center text-center text-white bg-gradient-to-l from-[#1e40af] via-[#1e3a8a] to-[#1e1b4b] p-12">
-            <img
+            {/* <img
                src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg"
                alt="LOGO"
                className="h-30"
-            />
+            /> */}
+            <h1 className="text-6xl font-bold mb-4">Brand Logo</h1>
             <h2 className="text-3xl font-semibold mb-2 customfont">
                Welcome Back!
             </h2>
