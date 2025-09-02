@@ -4,19 +4,19 @@ A secure full-stack authentication system with signup, login, password reset, an
 
 ## ✨ Features
 
--   User signup and login
--   OTP email verification for signup and password reset
--   Password reset with OTP
--   JWT-based authentication for secure access
--   Responsive UI built with Tailwind CSS
--   In-card loading indicators during API requests
+-  User signup and login
+-  OTP email verification for signup and password reset
+-  Password reset with OTP
+-  JWT-based authentication for secure access
+-  Responsive UI built with Tailwind CSS
+-  In-card loading indicators during API requests
 
 ## 🛠️ Tech Stack
 
--   **Frontend:** React, Tailwind CSS
--   **Backend:** Node.js, Express
--   **Database:** MongoDB
--   **Authentication:** JWT, Nodemailer
+-  **Frontend:** React, Tailwind CSS
+-  **Backend:** Node.js, Express
+-  **Database:** MongoDB
+-  **Authentication:** JWT, Nodemailer
 
 ## 🚀 Demo
 
@@ -26,33 +26,38 @@ Check out the live demo here: [Auth System Demo](https://github.com/vishxlkr/Aut
 
 To get a local copy up and running, follow these simple steps.
 
-1.  **Clone the repository**
-    ```sh
-    git clone https://github.com/vishxlkr/AuthSystem-OTP.git
-    cd AuthSystem-OTP
-    ```
+1. **Clone the repository**
 
-2.  **Setup Server**
-    ```sh
-    cd server
-    npm install
-    ```
-    Next, create a `.env` file in the `server` directory and fill in your environment variables (see below).
-    ```sh
-    npm run start 
-    ```
-    (Or `npm run server` if you have that script)
+   ```sh
+   git clone https://github.com/vishxlkr/AuthSystem-OTP.git
+   cd AuthSystem-OTP
+   ```
 
-3.  **Setup Client**
-    ```sh
-    cd ../client
-    npm install
-    ```
-    Next, create a `.env` file in the `client` directory (see below).
-    ```sh
-    npm run dev
-    ```
-    The app should now be running at `http://localhost:5173` (or the port specified by your Vite config).
+2. **Setup Server**
+
+   ```sh
+   cd server
+   npm install
+   ```
+
+   Next, create a `.env` file in the `server` directory and fill in your environment variables (see below).
+
+   ```sh
+   npm run start
+   ```
+
+   (Or `npm run server` if you have that script)
+
+3. **Setup Client**
+   ```sh
+   cd ../client
+   npm install
+   ```
+   Next, create a `.env` file in the `client` directory (see below).
+   ```sh
+   npm run dev
+   ```
+   The app should now be running at `http://localhost:5173` (or the port specified by your Vite config).
 
 ## 🔑 Environment Variables
 
