@@ -80,7 +80,12 @@ VITE_API_URL=http://localhost:5000
 
 ## 📸 Screenshots
 
-(You can add screenshots of your application here.)
+<img width="1919" height="1079" alt="Screenshot 2025-09-02 210128" src="https://github.com/user-attachments/assets/fc782413-6598-498f-87ee-cb5099de81b5" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-02 210110" src="https://github.com/user-attachments/assets/1957b295-6c77-49a6-b290-2bfb54578eef" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-02 210142" src="https://github.com/user-attachments/assets/e2792dbb-0c53-418d-b1e5-c340d3d9d35b" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-02 210223" src="https://github.com/user-attachments/assets/5ed70ec4-23b5-4145-b9ce-50034beea7ad" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-02 210333" src="https://github.com/user-attachments/assets/645dd6a5-cf5c-4177-95ba-386d3ff27801" />
+
 
 ---
 
