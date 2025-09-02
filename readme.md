@@ -18,10 +18,6 @@ A secure full-stack authentication system with signup, login, password reset, an
 -  **Database:** MongoDB
 -  **Authentication:** JWT, Nodemailer
 
-## 🚀 Demo
-
-Check out the live demo here: [Auth System Demo](https://github.com/vishxlkr/AuthSystem-OTP)
-
 ## ⚙️ Installation
 
 To get a local copy up and running, follow these simple steps.
