@@ -86,9 +86,4 @@ VITE_API_URL=http://localhost:5000
 <img width="1919" height="1079" alt="Screenshot 2025-09-02 210223" src="https://github.com/user-attachments/assets/5ed70ec4-23b5-4145-b9ce-50034beea7ad" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-02 210333" src="https://github.com/user-attachments/assets/645dd6a5-cf5c-4177-95ba-386d3ff27801" />
 
-
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
